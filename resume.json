@@ -1,12 +1,36 @@
 {
-  "name": "Samantha Lemley",
-  "email": "LemleySamanthaj@gmail.com",
-  "phone": "812.371.0400",
-  "city": "Fishers",
+  "name": "Samantha Miller",
+  "email": "",
+  "phone": "",
+  "city": "Indianapolis",
   "state": "Indiana",
   "title": "Customer Service Professional",
   "summary": "High-energy “people person” seeking to create a positive impact through customer service.",
   "employment": [
+    {
+      "company": "Little Pot Distillery",
+      "position": "Co-Owner",
+      "start": "2016",
+      "end": "2012",
+      "summary": "Created Indiana's first women owned distillery",
+      "highlights": []
+    },
+    {
+      "company": "240 Sweet Artisan Food Works",
+      "position": "Co-Owner",
+      "start": "2014",
+      "end": "2019",
+      "summary": "Led end-to-end business operations, including menu creation, brand development, daily management, sales and marketing, event execution, business development, and office administration. Products were featured in Oprah Magazine and Food & Wine, highlighting national recognition and brand appeal.",
+      "highlights": []
+    },
+    {
+      "company": "Dipt Pretzels",
+      "position": "Owner",
+      "start": "2020",
+      "end": "2023",
+      "summary": "Produced a line of gourmet chocolate dipped pretzels with fantasy themes.  Created branding and story of the Dipt the Wizard to sell pretzels.  Vended fantasy conventions",
+      "highlights": []
+    },
     {
       "company": "Gig Economy (Uber, Shipt, and DoorDash)",
       "position": "Self-Employed",
@@ -43,6 +67,7 @@
         "Created brand identity and marketing materials",
         "Handled inventory, costing, and operations",
         "Organized KetoLuxe and Low Carb Revolution events",
+        "Organized #ColumbusINKeto Potluck Picnics with attendance exceeding over 300 people to bring together brands and consumers for KetoLux and Low Carb Revolution.",
         "Sold on Amazon, Etsy, Shopify, Market Wagon, and expos",
         "Awarded for 'Healthcare Heroes Easter Meals' campaign"
       ]
@@ -78,6 +103,12 @@
       "from": "Buffalo Wild Wings",
       "year": "2020",
       "summary": "Highest sales during winter holiday season"
+    },
+    {
+      "title": "Culinary Arts Blue Ribbon",
+      "from": "Indiana State Fair",
+      "year": "2023",
+      "summary": ""
     }
   ],
   "certifications": [
@@ -101,7 +132,7 @@
     },
     {
       "organization": "Columbus Area Chamber of Commerce",
-      "role": "Former Member"
+      "role": "Former Board Member"
     },
     {
       "organization": "Artisan Foodworks Market",

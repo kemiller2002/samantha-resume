@@ -1,0 +1,118 @@
+{
+  "name": "Samantha Lemley",
+  "email": "LemleySamanthaj@gmail.com",
+  "phone": "812.371.0400",
+  "city": "Fishers",
+  "state": "Indiana",
+  "title": "Customer Service Professional",
+  "summary": "High-energy “people person” seeking to create a positive impact through customer service.",
+  "employment": [
+    {
+      "company": "Gig Economy (Uber, Shipt, and DoorDash)",
+      "position": "Self-Employed",
+      "start": "2020",
+      "end": "",
+      "summary": "Fulfilled delivery and customer service roles while maintaining customer satisfaction ratings of 4.9+/5.",
+      "highlights": [
+        "Fulfilled orders with dietary substitutions",
+        "Transported goods and customers safely",
+        "Handled app issues, traffic, and service demands",
+        "Maintained vehicle and licenses"
+      ]
+    },
+    {
+      "company": "Buffalo Wild Wings",
+      "position": "Server",
+      "start": "2020",
+      "end": "2021",
+      "summary": "Delivered excellent customer experience in a high-volume restaurant.",
+      "highlights": [
+        "Managed guest experience and expectations",
+        "Used POS to take and manage orders",
+        "Won 2020 Gift Card Contest for top holiday sales",
+        "Averaged 1 'Wow!' response per shift"
+      ]
+    },
+    {
+      "company": "Fork in the Road Marketing",
+      "position": "Co-Owner",
+      "start": "2018",
+      "end": "2020",
+      "summary": "Led branding and sales strategy for low-carb specialty food products.",
+      "highlights": [
+        "Created brand identity and marketing materials",
+        "Handled inventory, costing, and operations",
+        "Organized KetoLuxe and Low Carb Revolution events",
+        "Sold on Amazon, Etsy, Shopify, Market Wagon, and expos",
+        "Awarded for 'Healthcare Heroes Easter Meals' campaign"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Baltimore County Community College",
+      "location": "Catonsville, Maryland"
+    },
+    {
+      "institution": "Ball State University",
+      "location": "Muncie, Indiana"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Hoosier Hospitality Award",
+      "from": "Lt Governor Sue Ellspermann"
+    },
+    {
+      "title": "40 Under 40 Award",
+      "from": "Columbus Young Professionals"
+    },
+    {
+      "title": "Indiana Culinary Heroes Award",
+      "from": "Lt Governor Suzanne Crouch",
+      "year": "2020",
+      "summary": "For creating 'Healthcare Heroes Easter Meals' to feed over 700 frontline workers"
+    },
+    {
+      "title": "Gift Card Contest Winner",
+      "from": "Buffalo Wild Wings",
+      "year": "2020",
+      "summary": "Highest sales during winter holiday season"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Master Distiller",
+      "issuer": "Downslope Distilling"
+    },
+    {
+      "name": "LGBTBE and WBE Certified",
+      "issuer": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Indianapolis Zoo",
+      "role": "Volunteer Greeter at Zoobilation"
+    },
+    {
+      "organization": "Carmel Health and Living",
+      "role": "Volunteer"
+    },
+    {
+      "organization": "Columbus Area Chamber of Commerce",
+      "role": "Former Member"
+    },
+    {
+      "organization": "Artisan Foodworks Market",
+      "role": "Retired Farmers Market Master"
+    }
+  ],
+  "memberships": ["Indiana Grown", "Indiana Artisan"],
+  "leadership": [
+    "Past President, Columbus Young Professionals",
+    "Graduate, Leadership Bartholomew County"
+  ],
+  "grants": ["Co-recipient of James Beard Foundation Rhone Rangers grant"],
+  "notes": "Handwritten note: STATE FAIR DPT"
+}
